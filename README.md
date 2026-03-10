@@ -28,7 +28,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="[حط لينك الريبو هنا]"><b>Secure Educational Platform</b></a><br/><i>An Android app for online courses featuring robust anti-screenshot protection, a custom voucher system for students, and an admin panel for instructors.</i></td>
+      <td><a href="https://github.com/Ahmed-Yasser-ElMaradny/Education-Platform"><b>Secure Educational Platform</b></a><br/><i>An Android app for online courses featuring robust anti-screenshot protection, a custom voucher system for students, and an admin panel for instructors.</i></td>
       <td>Kotlin, MVVM, Room, Firebase</td>
       <td>Production / Freelance</td>
     </tr>
