@@ -45,7 +45,6 @@
   <li>Building and scaling freelance Android projects for real-world clients.</li>
   <li>Deep diving into <b>Clean Architecture</b>, <b>MVVM</b>, and <b>SOLID Principles</b> to write enterprise-level code.</li>
   <li>Mastering <b>Data Structures & Algorithms</b> to enhance problem-solving skills.</li>
-  <li>Exploring cloud services like <b>AWS</b> for backend integration.</li>
 </ul>
 
 <h3>📫 Where to find me</h3>
