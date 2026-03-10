@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my GitHub! </br> I'm <b>[Your Name]</b>, an Android Developer & CS Student from 🇪🇬 <b>Alexandria, Egypt</b>. </p>
+<p>Welcome to my GitHub! </br> I'm <b>Ahmed Yasser</b>, an Android Developer & CS Student from 🇪🇬 <b>Alexandria, Egypt</b>. </p>
 
 <p>I specialize in building secure, scalable, and user-friendly Android applications. Always eager to learn new architectural patterns and write clean, maintainable code.</p>
 
