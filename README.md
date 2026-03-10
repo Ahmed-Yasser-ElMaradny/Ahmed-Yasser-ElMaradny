@@ -33,7 +33,7 @@
       <td>Production / Freelance</td>
     </tr>
     <tr>
-      <td><a href="[حط لينك الريبو هنا]"><b>[Project Name - e.g., E-Commerce App]</b></a><br/><i>[وصف مختصر للمشروع التاني اللي هتعمله]</i></td>
+      <td><a href="[حط لينك الريبو هنا]"><b>[Project Name - e.g., E-Commerce App]</b></a><br/><i></i></td>
       <td>Kotlin, Jetpack Compose, Retrofit</td>
       <td>In Progress</td>
     </tr>
