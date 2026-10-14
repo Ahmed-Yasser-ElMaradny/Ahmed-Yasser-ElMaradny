@@ -33,7 +33,7 @@
     <tr>
       <td><a href="https://github.com/Ahmed-Yasser-ElMaradny/EdTech-Showcase"><b>Secure Educational Platform</b></a><br/><i>Web and Android app for online courses featuring robust anti-screenshot protection, a custom voucher system for students ,Exams System , Pdfs uploading and an admin panel for instructors.</i></td>
       <td>KMP, MVVM, Clean Architecture, Firebase , Jetpack Compose</td>
-      <td>In Progress </td>
+      <td>Production</td>
     </tr>
     <tr>
       <td><a href="[حط لينك الريبو هنا]"><b>[Book Library]</b></a><br/><i></i></td>
