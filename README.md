@@ -33,11 +33,11 @@
     <tr>
       <td><a href="https://github.com/Ahmed-Yasser-ElMaradny/EdTech-Showcase"><b>Secure Educational Platform</b></a><br/><i>Web and Android app for online courses featuring robust anti-screenshot protection, a custom voucher system for students ,Exams System , Pdfs uploading and an admin panel for instructors.</i></td>
       <td>KMP, MVVM, Clean Architecture, Firebase , Jetpack Compose</td>
-      <td>Production</td>
+      <td>In Progress </td>
     </tr>
     <tr>
       <td><a href="[حط لينك الريبو هنا]"><b>[Book Library]</b></a><br/><i></i></td>
-      <td>KMP, Jetpack Compose, Retrofit</td>
+      <td>KMP, Jetpack Compose, Retrofit , Ktor , Compose Multi Platform</td>
       <td>In Progress</td>
     </tr>
   </tbody>
@@ -52,7 +52,7 @@
 
 <h3>📫 Where to find me</h3>
 <p>
-  <a href="[https://github.com/Ahmed-Yasser-ElMaradny]" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://github.com/Ahmed-Yasser-ElMaradny" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/ahmed-yasser-b199733b0" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="mailto: ahmedelmaradny2006@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
